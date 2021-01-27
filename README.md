@@ -7,10 +7,10 @@ Scrape most 3000 word used in english conversion and Translate each word with it
 These instructions will get idea of the project up and running on your local machine for development and Execution purposes. See deployment for notes on how to deploy the project on a live system.
 
 ## How it works
-```
+
 This script is use to scrape [This site].(https://www.ef.com/wwen/english-resources/english-vocabulary/top-3000-words/) for most frequent 3000 word.
 Scrape this site and translate every word with it's bengali meaning and save into a text file where this script is located.
-``` 
+ 
 ### Prerequisites
 
 What things you need to install the software and how to install them
