@@ -8,7 +8,7 @@ These instructions will get idea of the project up and running on your local mac
 
 ## How it works
 
-This script is use to scrape [This site].(https://www.ef.com/wwen/english-resources/english-vocabulary/top-3000-words/) for most frequent 3000 word.
+This script is use to scrape [This site](https://www.ef.com/wwen/english-resources/english-vocabulary/top-3000-words/) for most frequent 3000 word.
 Scrape this site and translate every word with it's bengali meaning and save into a text file where this script is located.
  
 ### Prerequisites
