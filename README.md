@@ -14,9 +14,7 @@ Scrape this site and translate every word with it's bengali meaning and save int
 ### Prerequisites
 
 What things you need to install the software and how to install them
-```
-Python2/Python3
-```
+* Python3
 * [Google translate api](https://pypi.org/project/google-trans-new/) - The Web site google-trans-new 1.1.9
 * [Pandas](https://pypi.org/project/pandas/) - The Web site pandas 1.2.1
 * [bs4](https://pypi.python.org/pypi/beautifulsoup4) - The Web site  beautifulsoup4 4.6.0
@@ -25,7 +23,7 @@ Python2/Python3
 
 A step by step have to get a development env running
 ```
-step 1. python2 or python3
+step 1. python3
 step 2. pip install google-trans-new
 step 3. pip install bs4
 step 4. pip install pandas
